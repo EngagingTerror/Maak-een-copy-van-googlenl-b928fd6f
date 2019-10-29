@@ -1,8 +1,8 @@
 
 
 body {
-  margin: 0;
-  padding: 0;
+  margin: 0px;
+  padding: 0px;
   font-family: 'Roboto', sans-serif;
 }
 
@@ -55,7 +55,7 @@ li.nav-links a:hover {
 .google #google_logo {
   text-align: center;
   display: block;
-  margin: 0 auto;
+  margin: 0px auto;
   clear: both;
   padding-top: 112px;
   padding-bottom: 20px;
@@ -84,13 +84,13 @@ li.nav-links a:hover {
 footer  {
   background: #f2f2f2;
   border-top: solid 2px #e4e4e4;
-  bottom: 0;
-  padding-bottom: 0;
+  bottom: 0px;
+  padding-bottom: 0px;
   width: 100%;
   
 }
 
-footer ul li {
+footer ul, li {
   display: inline;
   color: #666666;
   font-size: 14px;
@@ -118,7 +118,7 @@ footer ul a:hover {
   }
   
  #google_logo {
-   padding: 0;
+   padding: 0px;
  }
   
  .buttons {
@@ -131,7 +131,7 @@ footer ul a:hover {
  }
   
  footer {
-   bottom: 0;
+   bottom: 0px;
  }
   
  footer ul {
@@ -162,7 +162,7 @@ footer ul a:hover {
   
   
  #google_logo {
-   padding: 0;
+   padding: 0px;
  }
   
  .buttons {
